@@ -1,1 +1,1 @@
-# EDA-Regression-Classification
+# EDA-Analysis-Regression-Classification
